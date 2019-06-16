@@ -8,3 +8,7 @@
  */
 
 rootProject.name = 'cicd-pipeline-train-schedule-jenkins'
+
+/* Trigger build
+ * OR?
+ */
